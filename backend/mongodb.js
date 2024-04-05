@@ -1,0 +1,1 @@
+export const mongoDBURI='mongodb + srv://root:root@messenger.onwav7m.mongodb.net/?retryWrites=true&w=majority&appName=messenger'
